@@ -56,7 +56,7 @@ macOS-10.16-x86_64-i386-64bit 2021-11-05 11:38:12
 
 ---
 
-## Running tasks in the queue
+## Running tasks in the queue
 
 Execute the following python script to test some of the things that you can do.
 Of course, take into consdieration that this is meant to be **asynchronous**
